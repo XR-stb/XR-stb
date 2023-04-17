@@ -3,13 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning C++ 
+- 🔭 &nbsp; I’m currently learning Rust
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 💼 &nbsp; A Student and Geek developer.
+- 🌱 &nbsp; Sometime I will learn about AI, And DL, CV, ML Beginner.
+- ✍️ &nbsp; Like art, but not skilled in art.
+- ☕ &nbsp; Welcome everybody share any with me, I am more than happy to receive that. 
 
 <h3>🛠 Tech Stack</h3>
 
