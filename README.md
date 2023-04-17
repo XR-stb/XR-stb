@@ -3,10 +3,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Rust
+- 🔭 &nbsp; I’m currently learning Rust.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; A Student and Geek developer.
+- 💼 &nbsp; My favorite language is C++.
+- 💙 &nbsp; Because it is full of magic, it can control everything, but also lose everything.
 - 🌱 &nbsp; Sometime I will learn about AI, And DL, CV, ML Beginner.
 - ✍️ &nbsp; Like art, but not skilled in art.
 - ☕ &nbsp; Welcome everybody share any with me, I am more than happy to receive that. 
