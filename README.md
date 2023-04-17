@@ -9,6 +9,7 @@
 - 💼 &nbsp; My favorite language is C++.
 - 💙 &nbsp; Because it is full of magic, it can control everything, but also lose everything.
 - 🌱 &nbsp; Sometime I will learn about AI, And DL, CV, ML Beginner.
+- 💥 &nbsp; Do any thing intersting, Use UE and unity build my world.
 - ✍️ &nbsp; Like art, but not skilled in art.
 - ☕ &nbsp; Welcome everybody share any with me, I am more than happy to receive that. 
 
@@ -32,10 +33,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:stb2322882096@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ⭐️ From [devSouvik](https://github.com/devSouvik)
