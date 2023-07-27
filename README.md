@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xr-stb&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-![](https://raw.githubusercontent.com/xr-stb/xr-stb/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/XR-stb/XR-stb/main/assets/github-contribution-grid-snake.svg)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
