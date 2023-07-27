@@ -29,7 +29,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xr-stb&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-![](https://raw.githubusercontent.com/XR-stb/XR-stb/main/assets/github-contribution-grid-snake.svg)
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
