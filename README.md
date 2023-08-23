@@ -8,7 +8,6 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; My favorite language is C++.
 - 💙 &nbsp; Because it is full of magic, it can control everything, but also lose everything.
-- 🌱 &nbsp; Sometime I will learn about AI, And DL, CV, ML Beginner.
 - 💥 &nbsp; Do any thing intersting, Use UE and unity build my world.
 - ✍️ &nbsp; Like art, but not skilled in art.
 - ☕ &nbsp; Welcome everybody share any with me, I am more than happy to receive that. 
