@@ -16,7 +16,7 @@
 
 - 💻 &nbsp; Python | Rust | Java | C++ | Golang
 - 🌐 &nbsp; Vue | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Redis 
+- 🛢  &nbsp; MySQL | Redis | Tcaplus
 - 🔧 &nbsp; PyCharm | Visual Studio code | IDEA | Git | Docker
 - 🖥 &nbsp; Photoshop
 
