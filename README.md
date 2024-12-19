@@ -17,7 +17,7 @@
 - 💻 &nbsp; Python | Rust | Java | C++ | Golang
 - 🌐 &nbsp; Vue | HTML | CSS | JavaScript | Bootstrap 
 - 🛢  &nbsp; MySQL | Redis | Tcaplus | MongoDB
-- 🔧 &nbsp; PyCharm | Visual Studio code | IDEA | Git | Docker |k8s
+- 🔧 &nbsp; CMake | Bazel | Git | Docker | k8s
 - 🖥 &nbsp; Unity | Unreal Engine | Cocos Creator | Blender
 
 <br>
